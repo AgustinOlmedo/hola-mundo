@@ -9,4 +9,4 @@ Mi nombre es Agustin Olmedo, y me dedico al desarrollo de aplicaciones tanto en 
   . MySQL & MsSQL
   . HTML, CSS, JavaScript
   . React, Node.js
-Apacionado por la tecnología y por seguír aprendiendo nuevas tecnicas de trabajo  
+Apacionado por la tecnología y por seguír aprendiendo nuevas tecnicas de trabajo.
